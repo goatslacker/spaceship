@@ -1,0 +1,21 @@
+{
+  "name": "spaceship",
+  "version": "0.0.1",
+  "author": "Josh Perez <josh@goatslacker.com> (http://github.com/goatslacker)",
+  "description": "Algorithm for generating spaceships",
+  "homepage": "http://github.com/mission12/spaceship",
+  "keywords": [
+    "spaceship",
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mission12/spaceship.git"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  }
+}
