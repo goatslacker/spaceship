@@ -5,7 +5,7 @@
   "description": "Algorithm for generating spaceships",
   "homepage": "http://github.com/mission12/spaceship",
   "keywords": [
-    "spaceship",
+    "spaceship"
   ],
   "repository": {
     "type": "git",
